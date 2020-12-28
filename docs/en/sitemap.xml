@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://jianse.github.io/meme_bug_showcase/en/posts/hello/</loc>
+    <lastmod>2020-12-28T19:20:18+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://jianse.github.io/meme_bug_showcase/zh/posts/hello/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://jianse.github.io/meme_bug_showcase/en/posts/hello/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://jianse.github.io/meme_bug_showcase/en/</loc>
+    <lastmod>2020-12-28T19:20:18+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://jianse.github.io/meme_bug_showcase/zh/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://jianse.github.io/meme_bug_showcase/en/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://jianse.github.io/meme_bug_showcase/en/posts/</loc>
+    <lastmod>2020-12-28T19:20:18+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://jianse.github.io/meme_bug_showcase/zh/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://jianse.github.io/meme_bug_showcase/en/posts/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://jianse.github.io/meme_bug_showcase/en/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://jianse.github.io/meme_bug_showcase/zh/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://jianse.github.io/meme_bug_showcase/en/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://jianse.github.io/meme_bug_showcase/en/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://jianse.github.io/meme_bug_showcase/zh/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://jianse.github.io/meme_bug_showcase/en/tags/"
+                />
+  </url>
+  
+</urlset>

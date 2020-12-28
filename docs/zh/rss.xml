@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+
+
+
+
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Hugo 主题 MemE</title>
+        <link>https://jianse.github.io/meme_bug_showcase/zh/</link>
+        <description>MemE 是一个强大且可高度定制的 GoHugo 博客主题，专为个人博客设计。</description>
+        <generator>Hugo 0.79.1 https://gohugo.io/</generator>
+        
+            <language>zh-CN</language>
+        
+        
+            <managingEditor>reuixiy@gmail.com (reuixiy)</managingEditor>
+        
+        
+            <webMaster>reuixiy@gmail.com (reuixiy)</webMaster>
+        
+        
+            <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
+        
+        <lastBuildDate>Mon, 28 Dec 2020 20:04:33 &#43;0800</lastBuildDate>
+        
+            <atom:link rel="self" type="application/rss&#43;xml" href="https://jianse.github.io/meme_bug_showcase/zh/rss.xml" />
+        
+        
+            <item>
+                <title>Hello</title>
+                <link>https://jianse.github.io/meme_bug_showcase/zh/posts/hello/</link>
+                <guid isPermaLink="true">https://jianse.github.io/meme_bug_showcase/zh/posts/hello/</guid>
+                <pubDate>Fri, 25 Dec 2020 10:27:25 &#43;0000</pubDate>
+                
+                    <author>reuixiy@gmail.com (reuixiy)</author>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
+                
+                    <description>&lt;p&gt;人工神经网络（Artificial Neural Networks，简写为ANNs）也简称为神经网络（NNs）或称作连接模型（Connection Model），它是一种模仿动物神经网络行为特征，进行分布式并行信息处理的算法数学模型。这种网络依靠系统的复杂程度，通过调整内部大量节点之间相互连接的关系，从而达到处理信息的目的……&lt;/p&gt;
+</description>
+                
+                
+                
+                
+                
+                    
+                        
+                    
+                        
+                    
+                
+            </item>
+        
+    </channel>
+</rss>

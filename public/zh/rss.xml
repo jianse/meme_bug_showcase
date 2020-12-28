@@ -8,7 +8,7 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>Hugo 主题 MemE</title>
-        <link>https://example.com/blog/zh/</link>
+        <link>https://jianse.github.io/meme_bug_showcase/zh/</link>
         <description>MemE 是一个强大且可高度定制的 GoHugo 博客主题，专为个人博客设计。</description>
         <generator>Hugo 0.79.1 https://gohugo.io/</generator>
         
@@ -23,15 +23,15 @@
         
             <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
         
-        <lastBuildDate>Mon, 28 Dec 2020 19:28:01 &#43;0800</lastBuildDate>
+        <lastBuildDate>Mon, 28 Dec 2020 19:40:46 &#43;0800</lastBuildDate>
         
-            <atom:link rel="self" type="application/rss&#43;xml" href="https://example.com/blog/zh/rss.xml" />
+            <atom:link rel="self" type="application/rss&#43;xml" href="https://jianse.github.io/meme_bug_showcase/zh/rss.xml" />
         
         
             <item>
                 <title>Hello</title>
-                <link>https://example.com/blog/zh/posts/hello/</link>
-                <guid isPermaLink="true">https://example.com/blog/zh/posts/hello/</guid>
+                <link>https://jianse.github.io/meme_bug_showcase/zh/posts/hello/</link>
+                <guid isPermaLink="true">https://jianse.github.io/meme_bug_showcase/zh/posts/hello/</guid>
                 <pubDate>Fri, 25 Dec 2020 10:27:25 &#43;0000</pubDate>
                 
                     <author>reuixiy@gmail.com (reuixiy)</author>

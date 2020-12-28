@@ -1,7 +1,7 @@
 ##########################################
 # 站点配置
 
-baseURL = "https://example.com/blog"
+baseURL = "https://jianse.github.io/meme_bug_showcase/"
 title = "Hugo 主题 MemE"
 languageCode = "zh-CN"
 hasCJKLanguage = true

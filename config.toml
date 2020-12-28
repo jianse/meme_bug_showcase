@@ -16,7 +16,13 @@ newContentEditor = ""
 
 # i18n
 defaultContentLanguage = "zh"
-defaultContentLanguageInSubdir = false
+defaultContentLanguageInSubdir = true
+
+[languages]
+    [languages.en]
+        contentDir = "content/en"
+    [languages.zh]
+        contentDir = "content/zh"
 
 # 是否复数化列表页面的标题
 pluralizeListTitles = false
@@ -1215,7 +1221,7 @@ uglyURLs = false
     # 多语言
 
     # 是否开启多语言按钮
-    enableLangToggle = false
+    enableLangToggle = true
 
     # 是否在首页隐藏多语言按钮
     hideLangToggleInHome = false
